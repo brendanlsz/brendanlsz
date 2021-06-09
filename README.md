@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brendan! I am a first year Computer Engineering student at the National University of Singapore.
+- 👋 Hi, I’m Brendan! I am a second year Computer Engineering student at the National University of Singapore.
 - 👀 I’m interested in game development!
 - 🌱 I’m currently learning programming, data structures and algorithms in C, C++ and Java.
 - 💞️ I’m looking to collaborate on ...
