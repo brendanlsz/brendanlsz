@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Brendan Lau! I am a second year Computer Engineering student at the National University of Singapore.
 - 👀 I’m interested in web development!
+- #️⃣ I'm a software engineer at Google Developer Student Club, working with external organisations to help create applications that benefit the public :)
 - 🌱 I’m currently learning programming, data structures and algorithms in C, C++ and Java. I have also been learning React.JS for my personal projects!
 - 💞️ I’m looking to collaborate on meaningful projects!
 - 📫 brendanlau2926@gmail.com
