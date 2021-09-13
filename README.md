@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on meaningful projects!
 - 📫 brendanlau2926@gmail.com
 
+![counter](https://[brendanlsz].m.pipedream.net)
 <!---
 brendanlsz/brendanlsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
