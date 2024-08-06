@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Brendan Lau! I am a second year Computer Engineering student at the National University of Singapore.
-- ✈️ Incoming FDSE @ Palantir 
+- 👨‍💼 Backend Software Engineer @ ShopBack
+- ✈️ ex FDSE intern @ Palantir 
 - 💻 ex SWE intern @ ShopBack!
 - 👀 I’m interested in backend development!
 - #️⃣ I'm a software engineer at Google Developer Student Club, working with external organisations to help create applications that benefit the public :)
